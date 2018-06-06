@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = ">=2.0.0,<2.1.0"
+stripe = "*"
+
+[dev-packages]
+pytest = "*"
+pytest-django = "*"
+mixer = "*"
+pytest-cov = "*"
+
+[requires]
+python_version = "3.6"

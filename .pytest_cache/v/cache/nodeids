@@ -1,0 +1,13 @@
+[
+  "birdie/tests/test_admin.py::TestPostAdmin::()::test_excerpt",
+  "birdie/tests/test_forms.py::TestPostForm::()::test_form",
+  "birdie/tests/test_models.py::TestPost::()::test_model",
+  "birdie/tests/test_models.py::TestPost::()::test_get_excerpt",
+  "birdie/tests/test_views.py::TestHomeView::()::test_anonymous",
+  "birdie/tests/test_views.py::TestAdminView::()::test_anonymous",
+  "birdie/tests/test_views.py::TestAdminView::()::test_logged_in_user",
+  "birdie/tests/test_views.py::TestPostUpdateView::()::test_get",
+  "birdie/tests/test_views.py::TestPostUpdateView::()::test_post",
+  "birdie/tests/test_views.py::TestPostUpdateView::()::test_security",
+  "birdie/tests/test_views.py::TestPaymentView::()::test_payment"
+]

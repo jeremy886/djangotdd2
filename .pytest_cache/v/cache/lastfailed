@@ -1,0 +1,6 @@
+{
+  "birdie/tests/test_views.py::TestAdminView::()": true,
+  "birdie/tests/test_views.py::TestHomeView::()": true,
+  "birdie/tests/test_views.py::TestPaymentView::()": true,
+  "birdie/tests/test_views.py::TestPostUpdateView::()": true
+}
